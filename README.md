@@ -1,4 +1,4 @@
-# SSR Error Boundaries in Next 15
+# SSR Error Boundaries in Next 14
 
 This project shows different scenarios of Error Boundaries interacting with Server Components in Next 14. It's main purpose is to compare it to the behavior in Next 15.
 
